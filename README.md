@@ -8,7 +8,10 @@
 - API開発（Ruby on Rails, Golang, Gin）
 - 社内向けの管理ツールのフロントエンド開発（Vue.js, Nuxt.js, Javascript）
 - 社内向けのスクレイピングツールの開発（Python, FastAPI, Vue.js, Nuxt.js, Typescript）
-- IoTデバイスとして海上で動作するRasberry PIの上のアプリケーションの開発（Python）
+- IoTデバイスとして海上で動作するRasberry PIの上のアプリケーションの開発（Python, Golang）
+    - 数百台規模のIoTデバイスのプログラムのアップデート基盤の作成
+    - プログラムのログを低コストでサーバー側にアップロードする仕組みの作成
+        - 電源がOFFの状態でもログによる調査が可能となる
 - Terraformを使ったAWSインフラの構築
 - Serverlessを使ったオペレーション系のLambdaの構築（Python, Golang）
 - マイクロサービスごとにCI/CDを構築
