@@ -1,4 +1,15 @@
 # 職務経歴書
+## 年表
+
+```mermaid
+gantt
+    dateFormat YYYY-MM-DD
+    axisFormat  %Y-%m
+    総務省 :job1, 2010-04-01,2017-03-31
+    ファンコミュニケーションズ　:job2, 2017-07-15,2019-10-31
+    ライトハウス　: active, job3, 2018-08-15, 2022-10-31
+```
+
 ## 職務経歴
 ### 株式会社ライトハウス
 職務：エンジニア \
@@ -9,13 +20,14 @@
 - 社内向けの管理ツールのフロントエンド開発（Vue.js, Nuxt.js, Javascript）
 - 社内向けのスクレイピングツールの開発（Python, FastAPI, Vue.js, Nuxt.js, Typescript）
 - IoTデバイスとして海上で動作するRasberry PIの上のアプリケーションの開発（Python, Golang）
-    - 数百台規模のIoTデバイスのプログラムのアップデート基盤の作成
-    - プログラムのログを低コストでサーバー側にアップロードする仕組みの作成
+    - 数百台規模のIoTデバイスのプログラムのアップデート基盤の構築
+    - プログラムのログを低コストでサーバー側にアップロードする仕組みの構築
         - 電源がOFFの状態でもログによる調査が可能となる
-- Terraformを使ったAWSインフラの構築
-- Serverlessを使ったオペレーション系のLambdaの構築（Python, Golang）
+    - 圏外時のデータをIoTデバイスに保存しておき、電波がある時にデータを送る仕組みの構築
+- [Terraform](https://www.terraform.io/)を用いたAWSインフラの構築
+- [Serverless](https://www.serverless.com/)を用いたAWS Lambdaの構築（Python, Golang）
 - マイクロサービスごとにCI/CDを構築
-- モニタリング環境のメンテナンス（Datadog）
+- モニタリング環境の構築・メンテナンス（Datadog）
 - 業務委託エンジニアとの調整
 - コスト削減
     - Auto Scaling調整
