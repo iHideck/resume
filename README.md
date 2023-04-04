@@ -1,5 +1,8 @@
 # 職務経歴書
-## 年表
+## 🙋‍♂️ はじめに
+- バックエンドなら大体なんでもいけます
+
+## 📆 年表
 
 ```mermaid
 gantt
@@ -10,13 +13,13 @@ gantt
     ライトハウス　: active, job3, 2018-08-15, 2023-04-30
 ```
 
-## 職務経歴
+## 📰 職務経歴
 ### 株式会社ライトハウス
 職務：エンジニア \
 期間：2018年8月〜2019年10月（業務委託）\
 　　：2019年11月〜現在（社員）\
 業務：漁業者向けの船舶プラットフォームの開発（創業初期から従事）
-- API開発（Ruby on Rails, Golang, Gin）
+- API開発（Ruby on Rails, Golang, Python）
 - 社内向けの管理ツールのフロントエンド開発（Vue.js, Nuxt.js, Javascript）
 - 社内向けのスクレイピングツールの開発（Python, FastAPI, Vue.js, Nuxt.js, Typescript）
 - IoTデバイスとして海上で動作するRasberry PIの上のアプリケーションの開発（Python, Golang）
@@ -27,11 +30,14 @@ gantt
 - [Terraform](https://www.terraform.io/)を用いたAWSインフラの構築
 - [Serverless](https://www.serverless.com/)を用いたAWS Lambdaの構築（Python, Golang）
 - マイクロサービスごとにCI/CDを構築
+    - TerraformのDaily差分チェックする仕組み
+    - SecurityTestをDailyで回す仕組み
 - モニタリング環境の構築・メンテナンス（Datadog）
 - 業務委託エンジニアとの調整
 - コスト削減
     - Auto Scaling調整
-    - CloudWatch LogsのS3 Export
+    - CloudWatch Logs（S3 Export、保存期間の調整）
+    - ECSのSpotInstance化
 
 ### 株式会社ファンコミュニケーションズ
 職務：エンジニア \
