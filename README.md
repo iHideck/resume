@@ -10,7 +10,7 @@ gantt
     axisFormat  %Y-%m
     総務省 :job1, 2010-04-01,2017-03-31
     ファンコミュニケーションズ　:job2, 2017-07-15,2019-10-31
-    ライトハウス　: active, job3, 2018-08-15, 2023-04-30
+    ライトハウス　: active, job3, 2018-08-15, 2024-01-01
 ```
 
 ## 📰 職務経歴
@@ -22,7 +22,8 @@ gantt
 - API開発（Ruby on Rails, Golang, Python）
 - 社内向けの管理ツールのフロントエンド開発（Vue.js, Nuxt.js, Javascript）
 - 社内向けのスクレイピングツールの開発（Python, FastAPI, Vue.js, Nuxt.js, Typescript）
-- IoTデバイスとして海上で動作するRasberry PIの上のアプリケーションの開発（Python, Golang）
+- エンドユーザ向けGISフロントエンド開発（Typescript, vite, react）
+- IoTデバイスとして海上で動作するRaspberry PIの上のアプリケーションの開発（Python, Golang）
     - 数百台規模のIoTデバイスのプログラムのアップデート基盤の構築
     - プログラムのログを低コストでサーバー側にアップロードする仕組みの構築
         - 電源がOFFの状態でもログによる調査が可能となる
@@ -38,6 +39,8 @@ gantt
     - Auto Scaling調整
     - CloudWatch Logs（S3 Export、保存期間の調整）
     - ECSのSpotInstance化
+    - S3 LifeCycle Policyの設定
+- Redashの構築、クエリ作成、ダッシュボードの作成
 
 ### 株式会社ファンコミュニケーションズ
 職務：エンジニア \
