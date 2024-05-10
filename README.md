@@ -8,6 +8,7 @@
 gantt
     dateFormat YYYY-MM-DD
     axisFormat  %Y-%m
+    tickInterval 12month
     総務省 :job1, 2010-04-01,2017-03-31
     ファンコミュニケーションズ　:job2, 2017-07-15,2019-10-31
     ライトハウス　: active, job3, 2018-08-15, 2024-05-31
