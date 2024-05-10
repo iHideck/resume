@@ -3,7 +3,7 @@
 - インフラ、バックエンド、フロントエンド、データ分析、大体なんでもいけます
 
 ## 📚 スキル
-<img src="https://skillicons.dev/icons?i=terraform,aws,gcp,golang,python,fastapi,js,typescript,react,vite,vue,nuxt,ruby,rails,mysql,redis,dynamodb" />
+<img src="https://skillicons.dev/icons?i=terraform,aws,gcp,golang,python,fastapi,js,typescript,npm,yarn,react,vite,vitest,vue,nuxt,ruby,rails,mysql,redis,dynamodb,docker,raspberrypi,html,css,php," />
 
 ## 📆 年表
 
