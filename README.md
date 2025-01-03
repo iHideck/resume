@@ -9,6 +9,10 @@
   - データ分析
 - カチカチに凝り固まった技術的負債をなんとかし、心理的安全性を持って継続的にデプロイできるようにしていくようなことばかりをやっています。
 
+## 趣味プロダクト
+
+- [Emoojie](https://emoojie.web.app/) - 絵文字を簡単に生成・Slack登録できるツール
+
 ## 📚 スキル
 
 ![Skills](https://skillicons.dev/icons?i=terraform,aws,gcp,golang,python,fastapi,js,typescript,npm,yarn,react,vite,vitest,vue,nuxt,ruby,rails,mysql,redis,dynamodb,docker,raspberrypi,html,css,php)
