@@ -39,6 +39,11 @@ gantt
 |  | 2019年11月〜現在（社員） |
 | 業務 | 漁業者向けの船舶プラットフォームの開発 |
 
+- 会社HP
+  - [公式](https://lighthouse-frontier.tech/)
+  - [Youtube](https://www.youtube.com/@lighthouseofficial6978)
+
+
 - API開発
   - Ruby on Rails
   - Golang Gin
