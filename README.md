@@ -26,7 +26,7 @@ gantt
     tickInterval 12month
     総務省 :job1, 2010-04-01,2017-03-31
     ファンコミュニケーションズ　:job2, 2017-07-15,2019-10-31
-    ライトハウス　: active, job3, 2018-08-15, 2025-08-31
+    ライトハウス　: active, job3, 2018-08-15, 2026-05-31
 ```
 
 ## 📰 職務経歴
@@ -42,7 +42,6 @@ gantt
 - 会社HP
   - [公式](https://lighthouse-frontier.tech/)
   - [Youtube](https://www.youtube.com/@lighthouseofficial6978)
-
 
 - API開発
   - Ruby on Rails
