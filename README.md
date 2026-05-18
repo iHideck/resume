@@ -86,6 +86,13 @@ gantt
   - ECSのSpotInstance化
   - S3 LifeCycle Policyの設定
   - RDBアクセス用のBastionのCloudshell化
+  - 肥大化した永続化データを別のS3バケットへ退避
+    - DynamoDB
+      - GPSデータなど10TB, 20Gレコードあったものを退避
+    - S3
+      - 画像データなど170TB, 13Gオブジェクトあったものを退避
+    - AWSコスト
+      - 月額13500ドルを7000ドルまで無事故で削減
 - 社内向け分析ツールの構築
   - Bigqueryへのデータexport
   - batchの作成
